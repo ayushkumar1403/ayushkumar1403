@@ -39,9 +39,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-> 📝 Add/remove badges above to match your real tool experience — e.g. `pandas`, `NumPy`, `Tableau`, `Power BI` if you've used them.
-
 ---
 
 ### 🚀 Featured Projects
@@ -65,7 +62,6 @@ Built a task-tracking application with full CRUD operations and status tracking,
 - CRUD operations on structured records
 - Authentication-scoped data access
 
-> 💡 Consider adding a project that's data-analysis-first — e.g. cleaning a public dataset with pandas, an exploratory analysis notebook, or a Power BI/Tableau dashboard. These are usually the first things recruiters look for in a Data Analyst profile.
 
 ---
 
@@ -77,23 +73,12 @@ Built a task-tracking application with full CRUD operations and status tracking,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="Ayush's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="Ayush's GitHub streak" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" alt="Top languages" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
 <p align="left">
   <a href="mailto:ayushkumar1248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-532413214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
